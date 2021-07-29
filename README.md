@@ -13,4 +13,4 @@ https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NjA0MDA3LCJzZXNzaW9uIjoiMTc5LjYuNTUuMTM3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjU1LjEzNyJdfSwic2lnbmF0dXJlIjoiM2MxMGMyMDI2MWE1MjhhZTY4NGRhYTA4MWUzMzY4MmY3NDkwMTQ3YyJ9
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
-http://daletvplay.xyz:8080/VP611X3SS/fnKGMYBNHG/14864
+https://blackghost.live/play/zutv-725.php?c=41005|User-agent=XCIPTV-v5.0.1
