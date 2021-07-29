@@ -16,3 +16,5 @@ https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=
 http://e10.telerium.uno:2052/free10/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDY6NDk6MjcgUE0maGFzaF92YWx1ZT03eGtuLzJWNlNqMmhTNE9aZWdtamZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", NATIONAL GEOGRAFIC
 http://e10.telerium.uno:2052/free10/057/chunks.m3u8?nimblesessionid=32142931&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDk6MzI6NDYgUE0maGFzaF92YWx1ZT05c0Uxc3ZUN1JJVWswQi9WRDhJV1ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", HISTORY
+http://e10.telerium.uno:2052/free10/031/chunks.m3u8?nimblesessionid=32177460&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDExOjM1OjUzIFBNJmhhc2hfdmFsdWU9Mi9EdTJES3cvOUlkTk1SZnZsc05LQT09JnZhbGlkbWludXRlcz0yNDA=
