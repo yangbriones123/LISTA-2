@@ -14,3 +14,7 @@ https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NjA0MDA3LCJzZXNzaW9uIjoiMTc5LjYuNTUuMTM3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjU1LjEzNyJdfSwic2lnbmF0dXJlIjoiM2MxMGMyMDI2MWE1MjhhZTY4NGRhYTA4MWUzMzY4MmY3NDkwMTQ3YyJ9
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 https://blackghost.live/play/zutv-725.php?c=41005|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://i.pinimg.com/originals/d9/50/5d/d9505d2f70006ecba671b9dd6b5c3324.png", DISNEY CHANNEL
+https://blackghost.live/play/zutv-725.php?c=41006|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", NATIONAL GEOGRAPHIC
+https://blackghost.live/play/zutv-725.php?c=40997|User-agent=XCIPTV-v5.0.1
