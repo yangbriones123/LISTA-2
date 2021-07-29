@@ -14,3 +14,5 @@ http://e10.telerium.uno:2052/free10/329/chunks.m3u8?nimblesessionid=32110113&wms
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NjA0MDA3LCJzZXNzaW9uIjoiMTc5LjYuNTUuMTM3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjU1LjEzNyJdfSwic2lnbmF0dXJlIjoiM2MxMGMyMDI2MWE1MjhhZTY4NGRhYTA4MWUzMzY4MmY3NDkwMTQ3YyJ9
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 http://e10.telerium.uno:2052/free10/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDY6NDk6MjcgUE0maGFzaF92YWx1ZT03eGtuLzJWNlNqMmhTNE9aZWdtamZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://static.wikia.nocookie.net/justiciajoven/images/2/25/CARTOON_NETWORK_logo_2012.png/revision/latest?cb=20120103201010&path-prefix=es", CARTOON NETWORK
+http://e10.telerium.uno:2052/free10/137/l_468037_59256086_10291.ts?nimblesessionid=32113165&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIxIDc6MTc6MDggUE0maGFzaF92YWx1ZT03bkZPaENIVTNOOWQxMlFrZk1JMG1nPT0mdmFsaWRtaW51dGVzPTI0MA==
