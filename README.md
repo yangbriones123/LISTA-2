@@ -16,3 +16,5 @@ https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=
 https://r9uxprta46.azcdn107.net:8443/hls/12dyavowb6wnxh3.m3u8?s=7_inCxUaNUrtoavTuL5oVw&e=1627674611
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", HISTORY
 https://r9uxprta46.azcdn107.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=txfHNAr7lIVJRkpoCpzl8w&e=1627675170
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/National-Geographic-Logo.png", NATIONAL GEOGRAFIC
+https://r9uxprta46.azcdn107.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=2RCnNaVAWxD1OKLrF0yZww&e=1627677553
