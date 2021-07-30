@@ -13,7 +13,7 @@ http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=america2&f=.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NzM5ODEzLCJzZXNzaW9uIjoiMTc5LjYuNTUuMTM3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjU1LjEzNyJdfSwic2lnbmF0dXJlIjoiNTgwYzNiOGM2NWE0ZGI0YjdlZWJlYTc1NzYxZTQzNGU5MmUzYjMxNSJ9
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
-http://ultraplay.org:80/live/DANIEL13W/2019XTR/183.m3u8
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", HISTORY
 http://ultraplay.org:80/live/DANIEL13W/2019XTR/221.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/National-Geographic-Logo.png", NATIONAL GEOGRAFIC
