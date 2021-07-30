@@ -19,4 +19,4 @@ http://ultraplay.org:80/live/DANIEL13W/2019XTR/221.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png", NATGEO
 http://e10.telerium.uno:2052/free10/057/chunks.m3u8?nimblesessionid=32442428&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDk6Mjk6NTMgUE0maGFzaF92YWx1ZT1FZ2dYcHh2ay9Wc2tuamRZSEpkVnJnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png", ATV+
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NzY1MDIxLCJzZXNzaW9uIjoiMTc5LjYuNTUuMTM3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjU1LjEzNyJdfSwic2lnbmF0dXJlIjoiZTI1YmViYmY3N2ViYmY3Nzc4NWVkZmY2OGJjOGNhZWQyOWJiNTA0NiJ9
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NzY3NjAyLCJzZXNzaW9uIjoiMTc5LjYuNTUuMTM3Iiwid2hpdGVsaXN0IjpbIjE3OS42LjU1LjEzNyJdfSwic2lnbmF0dXJlIjoiMWRjYWU4YTNhNmMwMjRkYTkzZDAxZTgyODY2ZGUzYmM4OTA5YmVhNiJ9
